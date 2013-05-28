@@ -1,6 +1,8 @@
 LXReorderableCollectionViewFlowLayout
 =====================================
 
+DEPRECATED(lukescott): This fork is no longer supported. Please see the [DraggableCollectionView](https://github.com/lukescott/DraggableCollectionView) (complete rewrite).
+
 Extends `UICollectionViewFlowLayout` to support reordering of cells. Similar to long press and pan on books in iBook.
 
 Features
